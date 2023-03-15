@@ -19,7 +19,7 @@ h1 {
   background-color: gray;
   max-width: 25rem;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem 1.5rem;
   border-radius: 10px;
   box-shadow: 2px 1px 8px black;
 }
